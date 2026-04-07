@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253021375491",
+    "project_id": "mobileprograminglap7",
+    "storage_bucket": "mobileprograminglap7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253021375491:android:77f25e0ede9299a587d236",
+        "android_client_info": {
+          "package_name": "com.example.lap7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQsnkDBlRs02H-u8QO79f-AnB245ts7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
